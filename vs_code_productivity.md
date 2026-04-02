@@ -1,28 +1,42 @@
 # Top 10 shortcuts
-1. win + shift + s - To crop screenshots
-2. ctrl + F - To find text
-3. ctrl + ] - To increase text size
-4. ctrl + [ - To decrease text size
-5. ctrl + B - To bold text
-6. ctrl + V - To paste text
-7. ctrl + A - To select the whole text
-8. ctrl + C - To copy selected text 
-9. win + prtsc - Screenshot screen
-10. ctrl + P - To print out documents
+* Navigation
+1. **Ctrl + P** - To access files
+2. **Ctrl + shift + P** - To display and run commands such as creating a new Jupyter notebook 
+3. **Ctrl + G** - Navigate to the code line number
+
+* Editing
+1. **Ctrl + Shift + K** - To delete the entire code line
+2. **Alt + ArrowUp / Alt + ArrowDown** - Move entire code line up/down
+3. **Shift + Alt + ArrowUp / Shift + Alt + ArrowDown** - Copy the entire line up/down 
+
+* Debugging
+1. **F5** - Initiate debugging
+2. **Ctrl + Shift + F5** - Restart debugging
+3. **Shift + F5** - Stop debugging
+
+* Terminal Commands (Integrated Terminal)
+1. **Ctrl + Shift + '** - Create new terminal 
+2. **Ctrl + Shift + C** - Copy selected text in terminal 
+3. **Ctrl + Shift + V** - Paste selected text in terminal 
+4. **Ctrl + '** - Open/close integrated terminal
+
 
 
 # Which shortcuts do you think will be the most useful in your daily work?
-1. win + shift + s - When I need to crop the relevant screenshots for accurate AI chatbot responses. It also crops out the sensitive information contained in the screenshot
+1. **win + shift + s** - When I need to crop the relevant screenshots for accurate AI chatbot responses. It also crops out the sensitive information contained in the screenshot
 
-2. Ctrl + A - To select the entire code block for accurate AI chatbot responses which does contain sensitive, identifiable information 
+2. **Ctrl + P** - To navigate among multiple of files and selecting the files using the enter key without a mouse
 
-3. ctrl + V - Paste text efficiently without right clicking to navigate the paste option 
+3. **F5** - To debug a specific line without needing to utilize mouse navigation to the AI chatbot
+
+4. **Ctrl + Shift + K** - To efficiently delete the entire code line without needing to highlight the code line using a mouse
+
+5. **Ctrl + Shift + '** - To efficiently create the new terminal without needing to navigate to terminal tab
 
 
 
 # How can keyboard shortcuts improve your productivity?
-- It reduces cognitive confusion and ensures that work is done efficiently. Efficient short-cuts might culminate to faster working times and lesser distractions from unnecessary subtasks. For example, win + shift + s and ctrl + v is more efficient than win + Prtsc if a user wants to prompt the cropped screenshot instantaneously, instead of navigating to file explorer to crop it and to find the file for prompting.
+- It reduces **cognitive confusion** and ensures that work is done efficiently. Efficient short-cuts might culminate to **faster working times** and **lesser distractions** from unnecessary subtasks. For example, creating a new Jupyter notebook using Ctrl + Shift + P is more efficient than navigating to quick access to show and run commands.
 
-
-
+# I have already committed and pushed the md file to my work repo 
 
