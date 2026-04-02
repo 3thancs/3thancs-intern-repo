@@ -17,9 +17,9 @@
   * To view **nested** data more easily. For example, I am working on an e-commerce site using an API, where I can expand fields such as items.
 
 
-  * Lighthouse:
-    * Validation tracks the **speed performance thresholds**. For example, I can validate the metric of the interaction of elements in the API. The time taken for after tracking is much longer than before tracking - which indicates a failed status 
-    * Figure out how to process large real-world data in **development and production** based on the time taken to process it
+* Lighthouse:
+  * Validation tracks the **speed performance thresholds**. For example, I can validate the metric of the interaction of elements in the API. The time taken for after tracking is much longer than before tracking - which indicates a failed status 
+  * Figure out how to process large real-world data in **development and production** based on the duration to process it.
     
  
 
