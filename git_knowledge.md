@@ -12,4 +12,4 @@ I chose the **GitHub Desktop** client. It has an intuitive UI where interactive 
 
 
 **What was the most interesting thing you learned about Git today?**
-I can r**evert my code script** to a specific second time frame if the new training script disrupts everything. 
+I can **revert my code script** to a specific second time frame if the new training script disrupts everything. 
