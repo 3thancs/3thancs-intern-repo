@@ -1,0 +1,32 @@
+[33m668b343[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Reverted appropriate model parameter for speed
+[33m42c9566[m Revert "Optimize model parameter for speed"
+[33mccbcc54[m Optimize model parameter for speed
+[33m4ee7c03[m Compute R^2 score
+[33mca256a4[m Change scatter color
+[33mf2274ed[m Computer R^2 score
+[33m7137d2e[m Compute Mean of Salary
+[33mb3be517[m Adjust RBF sigma and adjust training-test split
+[33m1298ba5[m I modified the RBF ML model via the modification of the sigma level from 0.85 to 0.65. I realized that the the model complexity was low due to underfitting.
+[33m3c88d1f[m # Tuning hyperparameters of the RBF ML model to a 75/25 training-test split
+[33mb96cab0[m Compute 4 year OPM average
+[33m1df032f[m Change
+[33m4b317fb[m Compute mean 4 year OPM
+[33mc8e8520[m Included stock prediction cleaned ETL data pipeline
+[33ma0db3cc[m Wrote reflection on Git understanding
+[33m43c259d[m Removed a comment
+[33m5ef42c8[m Figure out what pull request is
+[33m4a644d8[m Made highlight amendments
+[33m47e2a33[m Wrote reflection on git_knowledge.md
+[33m9a7d0a2[m Added terminal_knowledge.md
+[33m58f3eca[m Added content in the repo
+[33m4c670be[m Added new shortcuts
+[33m693c178[m Amended bullet points
+[33mffe63b1[m Completed the productivity chrome extension tools
+[33m2e0e481[m Completed vs_code_productivity.md
+[33m707cd4b[m Merge branch 'alternate'
+[33ma7fd845[m[33m ([m[1;32malternate[m[33m)[m changed LR metric to 7.2
+[33m5bfc01a[m amended the lin_reg metric
+[33m6c37e50[m added polynomial file
+[33m5044993[m change scatter color
+[33m7ad3535[m Change file directory
+[33m9330ebf[m Initial commit
