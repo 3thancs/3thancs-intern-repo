@@ -1,0 +1,26 @@
+name: Documentation Check
+
+on:
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  lint-and-spell:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # 1. Check Markdown Formatting
+      - name: Markdown Lint
+        uses: DavidAnson/github-actions-markdownlint@v1
+        with:
+          # This checks all .md files in the repo
+          glob: '**/*.md'
+
+      # 2. Check Spelling
+      - name: Spell Check
+        uses: soars-ohio/misspell-fixer-action@v0.4
+        with:
+          # Only report errors (doesn't automatically change files)
+          options: '-r'
