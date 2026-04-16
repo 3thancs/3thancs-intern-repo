@@ -1,0 +1,26 @@
+{
+  "name": "3thancs-intern-repo",
+  "version": "1.0.0",
+  "description": "Focus Bear repository",
+  "main": "hi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3thancs/3thancs-intern-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/3thancs/3thancs-intern-repo/issues"
+  },
+  "homepage": "https://github.com/3thancs/3thancs-intern-repo#readme",
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "markdownlint-cli": "^0.48.0"
+  }
+}
